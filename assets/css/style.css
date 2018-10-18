@@ -1,0 +1,41 @@
+h1 {
+  color: #c2f701e8;
+  text-shadow: 4px 4px #1ef701c7;
+  font-weight: bold;
+  font-family: "Fascinate Inline", cursive;
+}
+
+h4 {
+  color: #c2f701e8;
+  text-shadow: 1px 1px #1ef701c7;
+}
+
+h5 {
+  color: #9d01f7;
+  text-shadow: 1px 1px #da01f7;
+  font-weight: bold;
+  font-family: "Fascinate Inline", cursive;
+}
+
+.btn.btn-primary {
+  text-shadow: 0.25px 0.25px #da01f7;
+  border: 1.25px solid #9d01f7;
+  font-family: "Fascinate Inline", cursive;
+}
+
+body {
+  background: url("../images/Soul.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: "Fascinate Inline", cursive;
+}
+
+#foottrain {
+  filter: blur(1px);
+  ahref: ;
+}
+
+footer {
+  font-family: "Passion One", cursive;
+  font-weight: bold;
+}
