@@ -9,7 +9,7 @@ You can see the app in action here:
 
 https://wmcclung.github.io/Train-Scheduler/
 
-![Firebase ScreenshotScreenShot](https://github.com/wmcclung/Train-Scheduler/blob/master/assets/images/Train%20Scheduler.jpg}
+![Firebase ScreenshotScreenShot](https://github.com/wmcclung/Train-Scheduler/blob/master/assets/images/Train%20Scheduler.jpg)
 
 
 
